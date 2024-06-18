@@ -1,0 +1,28 @@
+{
+  "name": "my-vue-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-ai": "^41.4.2",
+    "@ckeditor/ckeditor5-build-classic": "^41.4.2",
+    "@ckeditor/ckeditor5-ckbox": "^41.4.2",
+    "@ckeditor/ckeditor5-export-pdf": "^41.4.2",
+    "@ckeditor/ckeditor5-export-word": "^41.4.2",
+    "@ckeditor/ckeditor5-list-multi-level": "^41.4.2",
+    "@ckeditor/ckeditor5-real-time-collaboration": "^41.4.2",
+    "@ckeditor/ckeditor5-vue": "^5.1.0",
+    "@ckeditor/vite-plugin-ckeditor5": "^0.1.3",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@ckeditor/ckeditor5-comments": "^41.4.2",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.0"
+  }
+}
